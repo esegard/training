@@ -5,4 +5,5 @@ Some examples :-)
 
 Tests commit !!!
 
-This line will conflict
+This line will conflict FIXEDi
+Commit on mater
